@@ -83,7 +83,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-500">
-          <p>&copy; {currentYear} WanderRest Hostel. All rights reserved.</p>
+          <p>&copy; {currentYear} M-Tech Solutions. Built by innovators. Visit us at <a className='hover:text-white transition-colors' href="https://www.mtechsolution.online">www.mtechsolution.online</a></p>
         </div>
       </div>
     </footer>
